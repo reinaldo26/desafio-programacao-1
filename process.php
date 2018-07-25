@@ -30,7 +30,6 @@ if(isset($arquivo['tmp_name']) && !empty($arquivo['tmp_name'])){
 
 		fclose($file);
 	}
-
 	
 	for($i=0; $i<count($data); $i++){ 
 		$purchaser_name = utf8_decode($data[$i]['purchaser name']);
