@@ -1,0 +1,42 @@
+body {
+	background-color: #A9A9A9;
+}
+
+h1 {
+	margin-top: 10px;
+}
+
+input {
+	margin: 10px;
+}
+
+table {
+	margin: 0 auto; 
+	text-align: center;
+}
+
+table th {
+	background-color: #808080;
+}
+
+table td {
+	padding: 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.main {
+	display:flex;
+    justify-content: center;
+}
+
+.main a {
+	padding: 20px;
+
+}
+
+.main a button {
+	font-size: 25px;
+}
